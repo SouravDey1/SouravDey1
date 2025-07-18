@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sourav Dey</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SouravDey1/SouravDey1/main/assets/professional-banner.png" alt="Professional Banner" width="1000" height="300">
-</p>
-
-<p align="center">
 🎓 Electrical & Electronic Engineering Student <br>
 💡 Machine Learning & Deep Learning Enthusiast <br>
 🚀 Exploring AI Applications in Engineering Systems
