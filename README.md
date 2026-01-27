@@ -18,18 +18,17 @@ I'm passionate about combining traditional engineering with modern technologies 
 
 ## 🚀 Currently Working On
 
-- Learning **core Python programming** (including OOP)
+- Learning **core Python programming** 
 - Exploring **machine learning models** (regression, classification)
 - Practicing **data manipulation & visualization** using NumPy, Pandas & Matplotlib
 - Studying **deep learning fundamentals** using TensorFlow & optimization techniques
-- Applying ML/DL in **signals, communication, and electronics research**
 
 ---
 
 ## 🛠️ Tools & Skills
 
-- **Languages:** Python (Core, OOP), MATLAB (Basics)
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow
+- **Languages:** Python, MATLAB (Basics)
+- **Libraries:** NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, TensorFlow
 - **Version Control:** Git & GitHub
 - **Soft Skills:** Public Speaking, Team Collaboration, Research Thinking
 
