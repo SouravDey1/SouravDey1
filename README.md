@@ -10,7 +10,7 @@
 
 ## 🧑‍🎓 About Me
 
-I'm a 3rd-year undergraduate student in Electrical & Electronic Engineering (EEE) at **Ahsanullah University of Science and Technology (AUST)**.
+I'm a 4th-year undergraduate student in Electrical & Electronic Engineering (EEE) at **Ahsanullah University of Science and Technology (AUST)**.
 
 I'm passionate about combining traditional engineering with modern technologies like machine learning and deep learning to solve real-world problems. My academic interests lie in electronics, signal processing, and communication systems — and I'm currently exploring how AI can enhance them.
 
