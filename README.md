@@ -44,7 +44,7 @@ I'm passionate about combining traditional engineering with modern technologies 
 ## 📌 My Goals
 
 - 📚 Build a strong foundation in ML/DL
-- 🔬 Apply AI in EEE domains like signal processing & communication
+- 🔬 Apply AI in EEE domains like signal processing, biomedical & communication
 - 💼 Create open-source projects for learning & sharing
 - 🧠 Prepare for impactful research in the AI + EEE space
 
