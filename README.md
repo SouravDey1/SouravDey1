@@ -27,7 +27,7 @@ I'm passionate about combining traditional engineering with modern technologies 
 
 ## 🛠️ Tools & Skills
 
-- **Languages:** Python, MATLAB (Basics)
+- **Languages:** Python, MATLAB, C++
 - **Libraries:** NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, TensorFlow
 - **Version Control:** Git & GitHub
 - **Soft Skills:** Public Speaking, Team Collaboration, Research Thinking
